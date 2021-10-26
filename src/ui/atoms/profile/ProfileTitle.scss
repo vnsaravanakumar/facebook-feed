@@ -1,0 +1,22 @@
+.hda-profile-content {
+    flex: auto;
+    text-align: left;
+    margin-left: 10px;
+
+    .hd-icon-small{
+        width: 16px;
+        height: 16px;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .hd-profile-name{
+        font-weight: 600;
+    }
+
+    .hd-post-date{
+        font-size: .8rem;
+        display: flex;
+        align-items: center;
+    }
+}

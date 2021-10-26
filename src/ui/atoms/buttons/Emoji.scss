@@ -1,0 +1,62 @@
+.hda-emoji{
+    .hd-img{
+        cursor: pointer;
+        width: 18px;
+        height: 18px;
+
+        border-top-left-radius: 11px;
+        border-bottom-left-radius: 11px;
+        border-top-right-radius: 11px;
+        border-bottom-right-radius: 11px;
+    
+        border-top-color: white;
+        border-bottom-color: white;
+        border-right-color: white;
+        border-left-color: white;
+    
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-right-style: solid;
+    
+        border-bottom-width: 2px;
+        border-top-width: 2px;
+        border-right-width: 2px;
+        border-left-width: 2px;
+    
+        margin-left: -4px;
+    }
+
+    .hd-animated-img{
+        background-image: url('./images/animatedEmoji.gif');
+        height: 50px;
+        width: 50px;
+        background-repeat: no-repeat;
+        cursor: pointer;
+        outline:none;
+    }
+
+    .hd-emoji-like{
+        background-position: -62px -110px;
+    }
+
+    .hd-emoji-love{
+        background-position: -124px -109px
+    }
+
+    .hd-emoji-haha{
+        background-position: -185px -110px
+    }
+
+    .hd-emoji-wow{
+        background-position: -246px -110px
+    }
+
+    .hd-emoji-sad{
+        background-position: -308px -110px
+    }
+    
+    .hd-emoji-angry{
+        background-position: -369px -110px
+    }
+}

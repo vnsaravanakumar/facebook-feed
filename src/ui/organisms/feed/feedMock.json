@@ -1,0 +1,114 @@
+{
+	"newsFeed":[
+		{ 
+			"feedId": "1",
+			"feedHeader": {
+				"feedType": "group",
+				"feedCategory": "default",
+				"profile": {
+					"profileImage": {
+      						"url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-1/cp0/p40x40/45852213_1984418801672383_3197727637204107264_n.png?_nc_cat=1&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=jwwlzfQ-IskAX98fMTX&_nc_ht=scontent-dfw5-2.xx&oh=b61f87b9c9865834a07b96f3cfbecdf8&oe=618D53B4"
+
+					},
+					"profileName": "",
+					"groupName": "YourStory Tamil"
+				},
+				"postDate": 1634103295440,
+				"privacy": "public"
+			},
+			"feedDetails": {
+				"userText": "Doctors said they were shocked to see residents engage in celebrations as if they were immune to COVID19 ",
+				"content": {
+					"contentType": "video",
+					"contentUrl": "https://www.w3schools.com/tags/movie.mp4",
+					"contentTitle": "Amid Bengal’s Durga Puja festivities, experts warn of Covid surge as norms are violated",
+					"contentButton": {
+						"text": "",
+						"link": ""
+					}
+				}
+			},
+			"feedFooter": {
+				"reactions":{
+					"likes": 2,
+					"comments": 2,
+					"shares": 6
+				}
+			}
+		},
+		{ 
+			"feedId": "2",
+			"feedHeader":{
+				"feedType": "person",
+				"feedCategory": "default",
+				"profile": {
+					"profileImage": {
+      						"url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.18169-9/15390777_143985442752622_6869145750036465230_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=goD6TcPJE_QAX9dO3U1&_nc_ht=scontent-dfw5-2.xx&oh=97f1b6b31cc8fdfececf961577cbbfd0&oe=618A2FE1",
+     						"altText": "Mindful Dev"
+					},
+					"profileName": "Mindful Dev",
+					"groupName": ""
+				},
+				"postDate": 1624103295440,
+				"privacy": "public"
+			},
+
+			"feedDetails": {
+				"userText": "Software Engineers work with Career Coaches? YES! I am a Software Dev & a Career Coach myself and I help Software Engineers like you get to the NEXT STEP in your career by recognizing gaps in your skillset, filling them in, and making strategic career choices.",
+				"content": {
+					"contentType": "image",
+					"contentUrl": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/165316-exarqphhul-1634645280.jpg",
+					"contentTitle": "How My Recent Client Went From An Under-Appreciated Senior Software Engineer to a Startup CTO in 3.5 months (112 days)",
+					"contentButton": {
+						"text": "",
+						"link": ""
+					}
+				}
+			},
+			"feedFooter": {
+				"reactions":{
+					"likes": 2,
+					"comments": 2,
+					"shares": 6
+				}
+			}
+		},
+		{ 
+			"feedId": "3",
+			"feedHeader":{
+				"feedType": "group",
+				"feedCategory": "sponsored",
+				"profile": {
+					"profileImage": {
+      						"url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/67242915_2245146465538366_1171643039416844288_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dwbfGpnHiYkAX9Xr5hr&_nc_ht=scontent-dfw5-2.xx&oh=6741ec02ad4170a51b82d202032bb84f&oe=618D525A",
+     						"altText": "Interview Kickstart"
+					},
+					"profileName": "",
+					"groupName": "Interview Kickstart"
+				},
+				"postDate": 1534103295440,
+				"privacy": "public"
+			},
+			"feedDetails": {
+				"userText": "Join our free webinar to learn how to get FAANG tech offers. Register Now",
+				"content": {
+					"contentType": "video",
+					"contentUrl": "https://www.w3schools.com/tags/movie.mp4",
+					"contentTitle": "Did you know the acceptance rate for FAANG tech roles is less than 2%?",
+					"contentButton": {
+						"text": "",
+						"link": ""
+					}
+				}
+			},
+			"feedFooter": {
+				"reactions":{
+					"likes": 2,
+					"comments": 2,
+					"shares": 6
+				}
+			}
+		}
+	]
+
+}

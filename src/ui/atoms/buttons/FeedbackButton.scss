@@ -1,0 +1,38 @@
+.hda-feedback-button{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    font-weight: 500;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    margin: 5px;
+    border-radius: 5px;
+
+    .hd-icons{
+        background-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/dvbEIJlNvsH.png");
+        background-size: auto;
+        width: 18px;
+        height: 18px; 
+        background-repeat: no-repeat;
+        display: inline-block;
+        padding: 0px 5px;
+        filter: invert(39%);
+
+        &.hd-like{
+            background-position: 0px -218px;
+        }
+        &.hd-comment{
+            background-position: 0px -180px;
+        }
+        &.hd-share{
+            background-position: 0px -237px;
+        }
+    }
+
+    &:hover{
+        background-color: #ECF3FF;
+    }
+    
+}
